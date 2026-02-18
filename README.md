@@ -1,14 +1,9 @@
-# Valentine Propose 💘
-This is a simple Valentine propose program using HTML, CSS and JavaScript.
+# Valentine Proposal
 
-It shows a "Will you be my Valentine?" page with:
+A web-based project crafted to deliver a personalized and immersive digital Valentine’s Day proposal experience.
 
-Funny No button messages
-Growing Yes button
-Romantic design
-Interactive proposal website
-Keywords: valentine propose program
-will you be my valentine html
-valentine proposal website
-romantic proposal program
-html javascript valentine project
+This repository contains a complete front-end implementation designed to present a heartfelt interactive message through a dedicated web interface. Built with widely supported web technologies, the project is optimized for deployment on static hosting platforms including GitHub Pages, Vercel, Netlify, and similar services.
+
+The purpose of the project is to provide a customizable and elegant platform for expressing affection in a meaningful way on Valentine’s Day. Its structure emphasizes simplicity, visual appeal, and ease of deployment.
+
+This project also serves as a template for future creative web experiences centered around special occasions and personal expressions.
